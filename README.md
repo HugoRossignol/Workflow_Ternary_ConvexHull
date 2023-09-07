@@ -15,4 +15,4 @@ Rossignol, H, Minotakis, M, Cobelli, M, Sanvito, S, "Machine-Learning-Assisted C
 
 ## Workflow Flow Chart: 
 
-![plot](.Image/Workflow_Detailed.png)
+![plot](Workflow_Detailed.png)
