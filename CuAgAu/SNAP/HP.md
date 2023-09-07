@@ -1,6 +1,5 @@
 $r_\mathrm{cut} = 3.5$Å    
-$2J_\mathrm{max} = 8$  
-$\lambda$ = $10^{-3}$  
+$2J_\mathrm{max} = 8$   
 | $w_\mathrm{Cu}$ | $w_\mathrm{Ag}$ | $w_\mathrm{Au}$ |
 |------------------|------------------|------------------|
 | 1                | 1                | 2                |
